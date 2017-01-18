@@ -9,3 +9,12 @@ ul.unstyled {
   list-style: none;
   padding: 0;
 }
+.gap-right {
+  margin-left: 130px;
+}
+.gap-left {
+  margin-left: 20px;
+}
+.gap-bottom {
+  margin-bottom: 20px;
+}
